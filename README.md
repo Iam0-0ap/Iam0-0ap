@@ -1,9 +1,5 @@
+# 💫 About Me:
 ### Hi there 👋
-
-# 💫 About Me:
-I'm Adarsha Pandey. 
-
-# 💫 About Me:
 I'm Adarsha Pandey. 
 
 ## 🌐 Socials:
