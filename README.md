@@ -8,7 +8,8 @@ I'm Adarsha Pandey.
 ![](https://github-readme-stats.vercel.app/api?username=Iam0-0ap&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 <!-- ![AdarshaPandey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Iam0-0ap&show_icons=true&theme=vue-dark) -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Iam0-0ap&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Iam0-0ap&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Iam0-0ap&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iam0-0ap)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Iam0-0ap&theme=radical&no-frame=false&no-bg=false&margin-w=4)
