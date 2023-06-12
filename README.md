@@ -9,7 +9,8 @@
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Tableau](https://www.tableau.com/sites/default/files/pages/tableau_logo_1.png)
+![Excel](https://img.shields.io/badge/Excel-%231888D6.svg?style=for-the-badge&logo=Microsoft-Excel&logoColor=white)
+[![Tableau](https://img.shields.io/badge/Tableau-%2300f.svg?style=for-the-badge&logo=Tableau&logoColor=white)](https://www.tableau.com/)
 
 
 
